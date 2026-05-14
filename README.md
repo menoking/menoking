@@ -3,7 +3,7 @@
 
   **第一师范 · 南方科技 · 具身智能**
 
-  <img src="https://count.getloli.com/get/@menoking?theme=gelbooru" alt="Moe Counter" />
+<img src="https://count.getloli.com/get/@menoking?theme=booru-smtg" alt="View Counter" />
 </div>
 
 <div align="center">
@@ -83,6 +83,6 @@ Hi, I'm **Meno**, a master's student at Southern University of Science and Techn
   <a href="https://space.bilibili.com/362827584">
     <img src="https://img.shields.io/badge/Bilibili-Meno-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
-  &nbsp;&nbsp;
+    
   <img src="https://komarev.com/ghpvc/?username=menoking&label=Views&color=blue&style=flat-square" alt="Views" />
 </div>
