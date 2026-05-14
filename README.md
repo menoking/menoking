@@ -3,7 +3,7 @@
 
   **第一师范 · 南方科技 · 具身智能**
 
-<img src="https://count.getloli.com/get/@menoking?theme=booru-smtg" alt="View Counter" />
+<img src="https://count.getloli.com/get/@menoking?theme=booru-lisu" alt="View Counter" />
 </div>
 
 <div align="center">
