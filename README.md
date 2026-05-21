@@ -83,6 +83,9 @@ Hi, I'm **Meno**, a master's student at Southern University of Science and Techn
   <a href="https://space.bilibili.com/362827584">
     <img src="https://img.shields.io/badge/Bilibili-Meno-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
+  <a href="https://v.douyin.com/ib7I73_pgvk/">
+    <img src="https://img.shields.io/badge/抖音-Meno-000000?style=flat-square&logo=tiktok&logoColor=white" alt="Douyin" />
+  </a>
     
   <img src="https://komarev.com/ghpvc/?username=menoking&label=Views&color=blue&style=flat-square" alt="Views" />
 </div>
